@@ -3,7 +3,8 @@ Not gonna lie had some difficulties (this year's theme) like marriage preparatio
 
 This year's theme is kabad كبد which really represents how life goes. There're many downs in life & that what forms experience.
 
-![[Kabad.png]]
+![Kabad](Kabad.png)
+
 
 أجمل ما قيل في قوله تعالى "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ" هو أن ==الحياة الدنيا لا تخلو من المشقة والتعب==، وأن الإنسان مُعَدٌّ لمكابدة صعوبات الحياة، لكن هذه المشقة ليست عقابًا بل اختبار لمدى صبره وقوة إيمانه، وأن هذه الآية تحمل معنيين: الأول هو التعب والمشقة الدنيوية، والثاني هو الاستقامة والتمام في الخلقة، وأنها دعوة للتفكر في الحكمة من الخلق وأن الله يُعِدّ الإنسان للآخرة، وأن يتقرب إلى الله ليجد الرحمة والتخفيف
 
