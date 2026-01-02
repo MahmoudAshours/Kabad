@@ -142,7 +142,7 @@ There's a yearly plan (**as always**) but this time I will focus more in writing
 
 ---
 
-## **PROJECT 4: AI/LLM PRODUCTION READINESS**
+## **PROJECT 2: AI/LLM PRODUCTION READINESS**
 
 ### **(Pillar 2: AI Productionization)**
 
@@ -202,7 +202,7 @@ There's a yearly plan (**as always**) but this time I will focus more in writing
 
 ---
 
-## **Project 5**
+## **Project 3
 ### Go Project — Goal-edge (CLI v1)
 
 - Scrape football matches (30-day window)
